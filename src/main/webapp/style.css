@@ -1,0 +1,15 @@
+@charset "UTF-8";
+h1{
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
